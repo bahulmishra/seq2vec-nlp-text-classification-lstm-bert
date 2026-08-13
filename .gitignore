@@ -1,0 +1,62 @@
+# ==========================================
+# Large Datasets & Pre-trained Embeddings
+# ==========================================
+WebOfScienceDataset/
+glove.6B/
+GoogleNews-vectors-negative300.*
+
+# ==========================================
+# Model Weights & Checkpoints
+# ==========================================
+*.pth
+*.pt
+*.bin
+*.onnx
+best_bert_*.pth
+
+# ==========================================
+# Reports & PDF Artifacts
+# ==========================================
+report.pdf
+
+# ==========================================
+# Python Caches & Compiled Bytecode
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ==========================================
+# Jupyter Notebook Checkpoints
+# ==========================================
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# ==========================================
+# Virtual Environments
+# ==========================================
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ==========================================
+# IDE & System Configuration
+# ==========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ==========================================
+# Build & Distribution Artifacts
+# ==========================================
+build/
+dist/
+*.egg-info/
+
