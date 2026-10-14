@@ -15,9 +15,10 @@ GoogleNews-vectors-negative300.*
 best_bert_*.pth
 
 # ==========================================
-# Reports & PDF Artifacts
+# Reports & Local Documentation
 # ==========================================
 report.pdf
+DOCUMENTATION.md
 
 # ==========================================
 # Python Caches & Compiled Bytecode
